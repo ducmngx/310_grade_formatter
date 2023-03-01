@@ -11,16 +11,27 @@
 ### Folder structure
 
 GRADE_FORMATTER
+
     ├── media
+    
     ├── blackboard_downloaded
+    
     │   ├── somefile.xls [Excel file from Blackboard Grade Center --> Work Offline --> Download] 
+    
     ├── manual
+    
     │   ├── manual.xls [ YOUR_OWN_MANUAL_GRADE_FILE ]
+    
     ├── output
+    
     │   ├── upload.xls [ OUTPUT FILE ]
+    
     │   ├── feedbackFile.xls [ OUTPUT FILE ]
+    
     ├── manual
+    
     ├── grade_formatter.py
+    
     └── README.md
 
 ### Work order
